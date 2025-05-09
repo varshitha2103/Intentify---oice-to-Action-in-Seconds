@@ -61,9 +61,7 @@ Submit Project by 5 p.m. today
 
 This is part of my #30DaysOfGenAI challenge — Day 4 — building projects that solve real workflow pain points. Intentify simplifies voice-based task delegation and note-making using fully open-source components.
 
-🙋‍♀️ Let's Connect
-
-Built by Varshitha Yanamala. If you're a recruiter, engineer, or GenAI enthusiast — let’s connect!
+Built by Varshitha Yanamala. If you're a recruiter, engineer, or GenAI enthusiast — 🙋‍♀️ Let's Connect!
 
    
 
