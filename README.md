@@ -61,6 +61,16 @@ Submit Project by 5 p.m. today
 
 This is part of my #30DaysOfGenAI challenge — Day 4 — building projects that solve real workflow pain points. Intentify simplifies voice-based task delegation and note-making using fully open-source components.
 
+🧗 Challenges Faced & How I Overcame Them
+1. 🧠 Intent Detection Was Inaccurate
+LLMs often returned verbose or incorrect classifications. I resolved this by strictly controlling the output via prompt engineering and keyword filtering using regex.
+2. ❌ No Output from LLM in Python
+subprocess.run() with --prompt failed silently. Fixed it by sending the prompt via stdin using input=prompt.encode().
+3. 🔇 Audio Path Handling in faster-whisper
+Gradio audio file input broke transcription. I patched this by checking audio_path.name and using the correct filepath from the temporary upload.
+4. 🛑 LLM Timeout or Blank Response
+Added timeout handling, fallbacks, and improved prompt templates for robustness.
+
 Built by Varshitha Yanamala. If you're a recruiter, engineer, or GenAI enthusiast — 🙋‍♀️ Let's Connect!
 
    
