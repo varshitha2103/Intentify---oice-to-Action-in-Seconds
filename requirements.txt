@@ -1,0 +1,11 @@
+faster-whisper==1.0.1
+gradio==4.27.0
+torch==2.2.2
+numpy==1.26.4
+requests==2.32.3
+uvicorn==0.29.0
+fastapi==0.111.0
+soundfile==0.12.1
+pydub==0.25.1
+ffmpeg-python==0.2.0
+python-multipart==0.0.9
