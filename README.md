@@ -16,11 +16,11 @@ https://github.com/user-attachments/assets/3bc45305-58ff-4a4a-91bf-0740f985ec8a
 📦 Tech Stack
 
 ### Component               Technology
-    Transcription           faster-whisper
-    LLM Inference           mistral via ollama
-    Intent Detection        Prompt-engineered LLM
-    Frontend                Gradio
-    Backend Logic           Python, subprocess
+    Transcription:          faster-whisper
+    LLM Inference:          mistral via ollama
+    Intent Detection:       Prompt-engineered LLM
+    Frontend:               Gradio
+    Backend Logic:          Python, subprocess
 
 🛠️ Setup Instructions
 1. Clone the repo
